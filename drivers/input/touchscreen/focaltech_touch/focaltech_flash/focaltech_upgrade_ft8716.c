@@ -38,7 +38,7 @@
 * Global variable or extern global variabls/functions
 *****************************************************************************/
 u8 pb_file_ft8716[] = {
-#include "../include/pramboot/FT8716_Pramboot_V0.9_20170525.i"
+//#include "../include/pramboot/FT8716_Pramboot_V0.9_20170525.i"
 };
 
 /*****************************************************************************
